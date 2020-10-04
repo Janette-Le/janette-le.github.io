@@ -8,7 +8,8 @@
 **Python - Random forest - Gradient boosting**
 
 Used library: pandas, numpy, matplotlib, seabon, sklearn
-<img src="Python 1.PNG?raw=true"/>
+
+<img src="images/Python 1.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
