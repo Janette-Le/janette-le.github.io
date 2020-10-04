@@ -6,6 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
       First description 
       <br><br>
       Second description</p>
-      
+      <br><br>
 theme: jekyll-theme-minimal
 
