@@ -5,8 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
       <p align="center">
       First description 
       <br><br>
-      Second description</p>
-      <br><br>
+      Second description
+      <br><br></p>
       
       
 theme: jekyll-theme-minimal
