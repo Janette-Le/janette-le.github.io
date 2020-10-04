@@ -6,6 +6,7 @@
 
 [Project Link](https://nbviewer.jupyter.org/github/Janette-Le/Python1/blob/main/nbviewer.ipynb)
 **Python - Random forest - Gradient boosting**
+
 Used library: pandas, numpy, matplotlib, seabon, sklearn
 <img src="Python 1.PNG?raw=true"/>
 
