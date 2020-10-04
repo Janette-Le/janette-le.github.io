@@ -1,4 +1,4 @@
-<h2>Portfolio</h2>
+<h1>Portfolio</h1>
 ---
 
 ### Unemployment statistics by ethnicity, gender and regions in the UK from 2004 to 2018\
@@ -8,7 +8,6 @@
 <img src="images/Python 1.PNG?raw=true"/>
 
 ---
-
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -32,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
