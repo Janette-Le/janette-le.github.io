@@ -4,7 +4,7 @@
 ### Unemployment statistics by ethnicity, gender and regions in the UK from 2004 to 2018<br>
 [Project Link](https://nbviewer.jupyter.org/github/Janette-Le/Python1/blob/main/ABC.ipynb)\
 Python - Random forest - Gradient boosting<br>
-*Used library: pandas, numpy, matplotlib, seabon, sklearn*\
+*Used library: pandas, numpy, matplotlib, seabon, sklearn*
 <br><br>
 <img src="images/Python 1.PNG?raw=true"/>
 
@@ -32,5 +32,5 @@ Python - Random forest - Gradient boosting<br>
 
 
 ---
-<p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
