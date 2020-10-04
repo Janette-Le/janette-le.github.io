@@ -7,7 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
       
       
       <br><br></p>
-github:
-is_project_page:false
+
 theme: jekyll-theme-minimal
 
