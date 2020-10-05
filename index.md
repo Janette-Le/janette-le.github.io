@@ -1,15 +1,15 @@
 # Portfolio
 
 ### Unemployment statistics by ethnicity, gender and regions in the UK from 2004 to 2018<br>
-[Project Link](https://nbviewer.jupyter.org/github/Janette-Le/Python1/blob/main/ABC.ipynb)\
-Python - Random forest - Gradient boosting<br>
-*Used library: pandas, numpy, matplotlib, seabon, sklearn*
+>>[Project Link](https://nbviewer.jupyter.org/github/Janette-Le/Python1/blob/main/ABC.ipynb)\
+>>Python - Random forest - Gradient boosting<br>
+>>*Used library: pandas, numpy, matplotlib, seabon, sklearn*
 
 <img src="images/Python 1.PNG?raw=true"/>
 
 ### MNIST from Scratch<br>
-[Project Link](https://github.com/Janette-Le/R-MNIST-Scratch)\
-R - Logistic regression - Naive Bayes - Neutral network - Random forest
+>>[Project Link](https://github.com/Janette-Le/R-MNIST-Scratch)\
+>>R - Logistic regression - Naive Bayes - Neutral network - Random forest
 
 <img src="images/R-1.png?raw=true"/>
 
