@@ -6,6 +6,7 @@
 > *Used library: pandas, numpy, matplotlib, seabon, sklearn*
 
 <img src="images/Python 1.PNG?raw=true"/>
+
 ---
 
 ### MNIST from Scratch<br>
