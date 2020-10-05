@@ -9,7 +9,7 @@ Python - Random forest - Gradient boosting<br>
 ### MNIST from Scratch<br>
 [Project Link](https://github.com/Janette-Le/R-MNIST-Scratch)\
 R - Logistic regression - Naive Bayes - Neutral network - Random forest.R<br>
-<img src="images/R-1.PNG?raw=true"/>
+<img src="images/R-1.png?raw=true"/>
 
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
