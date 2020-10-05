@@ -6,6 +6,7 @@
 > *Used library: pandas, numpy, matplotlib, seabon, sklearn*
 
 <img src="images/Python 1.PNG?raw=true"/>
+---
 
 ### MNIST from Scratch<br>
 > **[Project Link](https://github.com/Janette-Le/R-MNIST-Scratch)**\
@@ -13,7 +14,7 @@
 
 <img src="images/R-1.png?raw=true"/>
 
-
+### Tableau
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -36,5 +37,3 @@
 
 
 ---
-<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
