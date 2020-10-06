@@ -10,9 +10,9 @@
 ---
 
 ### MNIST from Scratch<br>
-> **[Project Link](https://github.com/Janette-Le/R-MNIST-Scratch)**\
-> **R - Logistic regression - Naive Bayes - Neutral network - Random forest**
-
+> **[Project Link](https://github.com/Janette-Le/R-MNIST/blob/main/README.md)**\
+> **R - Logistic regression - Random forest**
+> <p> The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning. Deloying Logistic regression and Random forests models to comprehensively understand about the effect of each parameter on prediction accuracy.
 <img src="images/R-1.png?raw=true"/>
 
 ### Tableau
