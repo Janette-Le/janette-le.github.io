@@ -11,8 +11,8 @@
 
 ### Condominium prices in Singapore<br>
 > **[Project Link](https://github.com/Janette-Le/R-Singapore-housing-price/blob/main/README.md)**\
+> **Tableau**\
 > **R - Multiple linear regression - Stepbackward - LASSO - PCR - Classification tree**\
-> **Tableau**
 > <p align="justify"> The number of planned private residential units is increasing from 2018 to 2019. Also, there is an increasing number of private residential units sold by developers, which imperatives for developers to be able to compete for these buyers by staying attractive in the market. The outcome of this project aims to provide models for developers to price their condominiums according to its variables. The two models selected are Classification Tree and Multiple Regression Model. Developers can price their new condominiums based on results of the model application.</p>
 <img src="images/R-2.png?raw=true"/>
 
