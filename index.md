@@ -21,10 +21,7 @@
 ### Wine quality<br>
 > **[Project Link](https://github.com/Janette-Le/R-Wine-quality/blob/main/README.md)**\
 > **R - Multiple linear regression - Stepwise Regression - LASSO**
-> <p align="justify"> 
-
-
-</p>
+> <p align="justify">In general, red wine is a complex mix of a large number of chemicals; there’s no exact figure, but estimates range from around 800 different compounds to over 1000. Each element differently affects the taste of wine, and also regards to its concentration. Using machine learning to explore which are typical elements that make wine taste "good" and their effects.</p>
 
 ---
 
