@@ -13,7 +13,9 @@
 > **[Project Link](https://github.com/Janette-Le/R-Singapore-housing-price/blob/main/README.md)**\
 > **Tableau**\
 > **R - Multiple linear regression - Stepbackward - LASSO - PCR - Classification tree**
-> <p align="justify"> The number of planned private residential units is increasing from 2018 to 2019. Also, there is an increasing number of private residential units sold by developers, which imperatives for developers to be able to compete for these buyers by staying attractive in the market. The outcome of this project aims to provide models for developers to price their condominiums according to its variables. The two models selected are Classification Tree and Multiple Regression Model. Developers can price their new condominiums based on results of the model application.</p>
+> <p align="justify"> This project aims to provide insights and outcomes by analyzing using past data of private residential units, specifically condominiums in Singapore. The factors that affect customer's willingness to buy include the area of the flats, whether it’s a resale or new sale, leasehold of the flat, completion year, et cetera.<br>
+Developers can use these insights to make pricing decisions for both resale and new flats from observing the willingness to pay of buyers based on historical data.</p>
+
 <img src="images/R-2.png?raw=true"/>
 
 ---
@@ -33,3 +35,9 @@
 <img src="images/R-1.png?raw=true"/>
 
 ---
+
+### AWS Architecture solution
+> **[Project report](https://github.com/Janette-Le/R-MNIST/blob/main/README.md)**\
+> <p align="justify"> This project aims to build and optimize a web service architecture on the AWS platform that achieves customer's business requirements.  This is a medical start-up company that provides software as a service for their customers. AWS Cloud architecture is designed to address the requirements of a medical application/company. This cloud architecture can host the development, test, and production environments.</p>
+
+<img src="images/1.png?raw=true"/>
