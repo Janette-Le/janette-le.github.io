@@ -4,6 +4,7 @@
 > **[Project Link](https://nbviewer.jupyter.org/github/Janette-Le/Python1/blob/main/ABC.ipynb)**\
 > **Python - Random forest - Gradient boosting**<br>
 > *Used library: pandas, numpy, matplotlib, seabon, sklearn*
+> <p align="justify">  </p>There are many factors that affect the unemployment rate; on macroeconomic perspectives, it may be the volatility of the economy or the intervention of the government; on microeconomic perspectives, it may depend on age, gender, education level of the employee and local regional economy. This project aims to study which demographic elements have affected the unemployment trend in the UK in the last 15 years.</p>
 
 <img src="images/Python 1.PNG?raw=true"/>
 
