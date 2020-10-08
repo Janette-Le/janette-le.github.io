@@ -22,8 +22,7 @@
 > **[Project Link](https://github.com/Janette-Le/R-Singapore-housing-price/blob/main/README.md)**\
 > **Tableau**\
 > **R - Multiple linear regression - Stepbackward - LASSO - PCR - Classification tree**
-> <p align="justify"> This project aims to provide insights and outcomes by analyzing using past data of private residential units, specifically condominiums in Singapore. The factors that affect customer's willingness to buy include the area of the flats, whether it’s a resale or new sale, leasehold of the flat, completion year, et cetera.<br>
-Developers can use these insights to make pricing decisions for both resale and new flats from observing the willingness to pay of buyers based on historical data.</p>
+> <p align="justify"> This project aims to provide insights and outcomes by analyzing using past data of private residential units, specifically condominiums in Singapore. The factors that affect customer's willingness to buy include the area of the flats, whether it’s a resale or new sale, leasehold of the flat, completion year, et cetera. Developers can use these insights to make pricing decisions for both resale and new flats from observing the willingness to pay of buyers based on historical data.</p>
 
 <img src="images/R-2.png?raw=true"/>
 
