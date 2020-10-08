@@ -36,7 +36,7 @@ Developers can use these insights to make pricing decisions for both resale and 
 
 ---
 
-### AWS Architecture solution
+### AWS Cloud Architecture: Medical Company
 > **[Project report](https://github.com/Janette-Le/R-MNIST/blob/main/README.md)**
 > <p align="justify"> This project aims to build and optimize a web service architecture on the AWS platform that achieves customer's business requirements.  This is a medical start-up company that provides software as a service for their customers. AWS Cloud architecture is designed to address the requirements of a medical application/company. This cloud architecture can host the development, test, and production environments.</p>
 
