@@ -31,8 +31,7 @@
 > **[Project Link](https://github.com/Janette-Le/SQL-Pharmacy-Insurance-Claims/blob/main/README.md)**\
 > **MySQL, Schema**\
 > **Snowflake schema, 3NF, Entity-relation model**
-> <p align="justify"> This project aims to develope a database management system to store, manipulate and search drug prescriptions of customers, created snowflake schema and transformed data into 3NF. Also, assign Primary, foreign keys and performed SQL queries to insert, update, delete prescription records; designate an Entity-relation model and produced a table to retrieve customer details
-</p>
+> <p align="justify"> This project aims to develope a database management system to store, manipulate and search drug prescriptions of customers, created snowflake schema and transformed data into 3NF. Also, assign Primary, foreign keys and performed SQL queries to insert, update, delete prescription records; designate an Entity-relation model and produced a table to retrieve customer details.</p>
 
 <img src="images/SQL.png?raw=true"/>
 
